@@ -1,4 +1,6 @@
 #include<stdio.h>
 void main(){
-printf("Welcome");
+	printf("Welcome");
+	printf("TO");
+	printf("GIT");
 }
